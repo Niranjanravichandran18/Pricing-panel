@@ -1,0 +1,69 @@
+button {
+    padding: 10px 25px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    color: rgb(17, 166, 225);
+    background-color: white;
+    border: 1px solid rgb(17, 166, 225);
+    margin: -20px;
+}
+
+#privilege {
+    background-color: rgb(67, 192, 241);
+    color: white;
+}
+
+html {
+    text-transform: uppercase;
+    background-color: rgb(40, 187, 246);
+}
+
+main {
+    color: rgb(11, 149, 203);
+    font-family: lucida sans;
+    font-size: 14px;
+    border-bottom: 1px solid rgb(193, 182, 182);
+}
+
+h4 {
+    color: grey;
+    text-align: center;
+    border-bottom: 1px solid rgb(193, 182, 182);
+}
+
+nav {
+    color: rgb(23, 143, 191);
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 10px;
+}
+
+body {
+    background-color: white;
+    width: 85%;
+    height: 600px;
+    display: flex;
+    margin: 0 auto;
+    transform: translateY(65px);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+img {
+    width: 280px;
+    height: 280px;
+}
+
+div {
+    height: 500px;
+    border-right: 1px solid rgb(193, 182, 182);
+    padding: 20px;
+}
+
+.panel:last-child {
+    border-bottom: none;
+}
