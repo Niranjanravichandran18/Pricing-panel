@@ -6,6 +6,7 @@ button {
     background-color: white;
     border: 1px solid rgb(17, 166, 225);
     margin: -20px;
+    cursor: pointer;
 }
 
 #privilege {
